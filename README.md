@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PRINCE YADAV </h1>
-<h3 align="center">Currently Doing Hands On Practice on Data Structures and Algorithms & At the Same time I am building some Projects in Web Development & also trying a little bit of Competitive Programming .</h3>
+<h3 align="center">Currently Doing Hands On Practice on Data Structures and Algorithms & At the Same time I am building some Projects in Android Development & also trying a little bit of Competitive Programming .</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gammaprince&label=Profile%20views&color=0e75b6&style=flat" alt="Gammaprince" /> </p>
 
 - 🔭 I’m currently Learning *Data Structures & Algorithms*
