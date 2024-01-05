@@ -6,9 +6,9 @@
 
 - 👨‍💻 All of my projects are available [*HERE*](https://github.com/Gammaprince)
 
-- 💬 Ask me about *DSA, Java ,HTML ,JS ,CSS ,React.Js*
+- 💬 Ask me about *DSA, Java , kotlin , Android Development*
 
-- 📫 You can reach me by [*MY-GMAIL*](mailto:manish80842@gmail.com)
+- 📫 You can reach me by [*MY-GMAIL*](mailto:Princelalu8923@gmail.com)
 
 <h3 align="left">✍ Quote Of The Day</h3>
 
