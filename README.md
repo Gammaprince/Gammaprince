@@ -17,7 +17,7 @@
 <h3 align="left">📩 Connect with me:</h3>
 <p align="left">
 <h4>Social 👇🏻<h4/>
-<a href="mailto:manish80842@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Gammaprince" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="mailto:Princelalu8923@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Gammaprince" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/Gammaprince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gammaprince" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/Gammaprince" target="blank"><img align="center" src="https://www.pngkey.com/png/full/2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png" alt="Gammaprince" height="40" width="40" /></a><br>
 <h4>Coding 👇🏻<h4/>
